@@ -1,1 +1,1 @@
-# 1stminiproject
+This is my best attempt at the first homework. I joined the study group Discord but I still couldn't get what should be in the article section to actually be there and not overlapping any images. As for the CSS, I tried to make comments where there was already a template and a little extra. I might need to re-read information on some fundamental points.
