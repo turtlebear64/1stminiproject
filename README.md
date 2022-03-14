@@ -1,1 +1,26 @@
-This is my best attempt at the first homework. I joined the study group Discord but I still couldn't get what should be in the article section to actually be there and not overlapping any images. As for the CSS, I tried to make comments where there was already a template and a little extra. I might need to re-read information on some fundamental points.
+## Refactor of the Horiseon web page to follow accessibility standards and optimize for search engines.
+
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+## Acceptance Criteria
+
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+``
+
